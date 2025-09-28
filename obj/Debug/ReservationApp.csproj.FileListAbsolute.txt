@@ -1,0 +1,9 @@
+D:\Projects\VSProjects\ReservationApp\obj\Debug\ReservationApp.csproj.AssemblyReference.cache
+D:\Projects\VSProjects\ReservationApp\obj\Debug\ReservationApp.Properties.Resources.resources
+D:\Projects\VSProjects\ReservationApp\obj\Debug\ReservationApp.csproj.GenerateResource.cache
+D:\Projects\VSProjects\ReservationApp\obj\Debug\ReservationApp.csproj.CoreCompileInputs.cache
+D:\Projects\VSProjects\ReservationApp\bin\Debug\ReservationApp.exe.config
+D:\Projects\VSProjects\ReservationApp\bin\Debug\ReservationApp.exe
+D:\Projects\VSProjects\ReservationApp\bin\Debug\ReservationApp.pdb
+D:\Projects\VSProjects\ReservationApp\obj\Debug\ReservationApp.exe
+D:\Projects\VSProjects\ReservationApp\obj\Debug\ReservationApp.pdb
