@@ -1,6 +1,6 @@
 public enum ReservationStatus
 {
-    Активно,
-    Отменено,
-    Завершено
+    Active,
+    Cancelled,
+    Completed
 }

@@ -53,7 +53,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reservation.cs" />
-    <Compile Include="ReservationForm.cs" />
+    <Compile Include="ReservationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="ReservationManager.cs" />
     <Compile Include="ReservationStatus.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

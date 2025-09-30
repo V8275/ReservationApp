@@ -12,7 +12,7 @@ public class Reservation
         CustomerName = customerName;
         StartTime = startTime;
         EndTime = endTime;
-        Status = ReservationStatus.Активно;
+        Status = ReservationStatus.Active;
     }
 
     public void UpdateStatus(ReservationStatus newStatus)

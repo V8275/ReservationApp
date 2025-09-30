@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservationApp", "ReservationApp.csproj", "{49C3742C-70AD-4CC0-A044-5E975DAA859A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestReservationApp", "UnitTestReservationApp\UnitTestReservationApp.csproj", "{0445822C-AA73-4D0A-86BC-E672A7E349EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{49C3742C-70AD-4CC0-A044-5E975DAA859A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49C3742C-70AD-4CC0-A044-5E975DAA859A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49C3742C-70AD-4CC0-A044-5E975DAA859A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0445822C-AA73-4D0A-86BC-E672A7E349EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0445822C-AA73-4D0A-86BC-E672A7E349EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0445822C-AA73-4D0A-86BC-E672A7E349EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0445822C-AA73-4D0A-86BC-E672A7E349EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

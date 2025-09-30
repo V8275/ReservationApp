@@ -53,7 +53,7 @@ public class ReservationManager
     private bool IsTimeSlotOccupied(DateTime startTime, DateTime endTime)
     {
         return Reservations.Any(r => 
-            r.Status == ReservationStatus.Активно &&
+            r.Status == ReservationStatus.Active &&
             startTime < r.EndTime && 
             endTime > r.StartTime);
     }
